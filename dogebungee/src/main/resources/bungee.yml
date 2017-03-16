@@ -1,0 +1,4 @@
+name: DogeBungee
+main: net.dogegames.dogebungee.DogeBungee
+version: 1.0.0
+author: iCroque

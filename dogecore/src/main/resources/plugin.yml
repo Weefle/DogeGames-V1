@@ -1,0 +1,5 @@
+name: DogeCore
+main: net.dogegames.dogecore.DogeCore
+version: 1.0.0
+depend: [ProtocolLib]
+author: iCroque
